@@ -24,6 +24,7 @@ This project performs simple arithmetic operations with a clean and user-friendl
 - Hover effects for better user experience
 
 ---
+
 ## ▶️ How to Run the Project
 
 1. Download or clone the repository:

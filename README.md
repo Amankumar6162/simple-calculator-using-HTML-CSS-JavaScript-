@@ -48,3 +48,22 @@ Right-click → Open with → Any browser (Chrome, Edge, Firefox).
 ---
 
 ## Screenshot 
+<img width="418" height="535" alt="image" src="https://github.com/user-attachments/assets/2d49cd54-a488-49ba-aba3-2b362e4ec5b2" />
+
+---
+
+## 🚀 Future Improvements
+
+Keyboard input support
+
+Scientific calculator functions
+
+Dark/Light mode toggle
+
+Improved error handling
+
+---
+
+## 🧑‍💻 Author
+
+Aman Jangra
